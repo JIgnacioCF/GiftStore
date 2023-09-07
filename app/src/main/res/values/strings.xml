@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GiftStore</string>
+    <string name="texto01">Welcome!!</string>
+    <string name="texto02">Ingresar</string>
+    <string name="texto03">No estoy Registrado!</string>
+    <string name="texto04">Ya estoy registrado!</string>
+    <string name="texto05">Registrarme!</string>
+    <string name="hint01">Nombre</string>
+    <string name="hint02">Apellido Paterno</string>
+    <string name="hint03">Apellido Materno</string>
+    <string name="hint04">Correo Electronico</string>
+    <string name="hint05">Contraseña</string>
+
+</resources>

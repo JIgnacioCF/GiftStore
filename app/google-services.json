@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "202493859962",
+    "project_id": "giftstore-e5257",
+    "storage_bucket": "giftstore-e5257.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202493859962:android:1601ec8bf1f20b077683c3",
+        "android_client_info": {
+          "package_name": "mx.tecnm.cdhidalgo.giftstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202493859962-7c7oj95f8bck5n22bgopepb04mhls26q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxIo4NMZ4GKJmGC7rHku-92Fs9b4APDjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202493859962-7c7oj95f8bck5n22bgopepb04mhls26q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
